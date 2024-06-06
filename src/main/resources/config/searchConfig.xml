@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+	<FilmIdSearch>com.fms.service.Impl.seachImpl.FilmIdSearch</FilmIdSearch>
+</config>
